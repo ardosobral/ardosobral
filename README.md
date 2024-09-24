@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/d325ceb3-08e5-42d7-ac90-c01a45875235"/>
+  <img height="320" src="https://github.com/user-attachments/assets/80fbaeb3-4c7e-41f9-a0c8-27cf51b54d96"/>
 </div>
 
 ###
 
-<h3 align="left">Prazer, sou Léo</h3>
+<h3 align="left">Olá, sou Léo</h3>
 
 ###
 
@@ -53,7 +53,7 @@
 
 ###
 
-<h6 align="center">"Pessoas diversas solucionam problemas diversos" 🏳️‍🌈</h6>
+<h5 align="center">"Pessoas diversas solucionam problemas diversos" 🏳️‍🌈</h5>
 
 ###
 
